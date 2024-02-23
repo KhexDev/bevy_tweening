@@ -327,6 +327,7 @@ Compatibility of `bevy_tweening` versions:
 
 | `bevy_tweening` | `bevy` |
 | :--             | :--    |
+| `main`          | `0.13` |
 | `0.9`           | `0.12` |
 | `0.8`           | `0.11` |
 | `0.7`           | `0.10` |
